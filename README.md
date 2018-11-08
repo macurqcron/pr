@@ -5,7 +5,7 @@
 @EvgeniyaYangel  
 @dejonggr  
 @auduman  
-+@macurqcron  
++ @macurqcron  
 @j-schaub  
 @tsmith93  
 @FrancisAurich  
